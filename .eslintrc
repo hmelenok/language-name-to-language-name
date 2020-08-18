@@ -1,0 +1,17 @@
+{
+  "root": true,
+  "extends": [
+    "airbnb-typescript/base"
+  ],
+  "env": {
+    "mocha": true
+  },
+  "rules": {
+    "@typescript-eslint/no-non-null-assertion": "off",
+    "@typescript-eslint/ban-ts-comment": "warn"
+  },
+  "parser": "@typescript-eslint/parser",
+  "parserOptions": {
+    "project": "./tsconfig.json"
+  }
+}

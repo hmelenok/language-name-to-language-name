@@ -1,2 +1,6 @@
 .npmrc
 .idea/
+node_modules/
+lib/
+.eslintcache
+scripts/french-extracted.json

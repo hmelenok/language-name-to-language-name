@@ -2,9 +2,64 @@
   "name": "language-name-to-language-name",
   "version": "0.0.1",
   "description": "Language names on other language names (base list from ISO 639-1)",
-  "main": "lib",
+  "main": "lib/",
+  "files": [
+    "lib/"
+  ],
+  "types": "./lib/index.d.ts",
   "repository": "git@github.com:hmelenok/language-name-to-language-name.git",
   "author": "Khmel Mykyta <hmelenok@gmail.com>",
   "license": "MIT",
-  "private": false
+  "private": false,
+  "scripts": {
+    "lint": "eslint . --cache --fix --ignore-path=.eslintignore",
+    "extract-french": "node ./src/extract-french.js",
+    "build": "rm -rf lib/ && yarn build:types && babel src --out-dir lib --ignore '**/*.test.ts' --extensions '.ts'",
+    "build:types": "tsc",
+    "coverage": "jest --coverage",
+    "prepack": "yarn build",
+    "test": "TZ=UTC jest",
+    "type-check": "tsc --noEmit",
+    "type-check:watch": "npm run type-check -- --watch"
+  },
+  "devDependencies": {
+    "@babel/cli": "7.10.5",
+    "@babel/core": "7.11.1",
+    "@babel/plugin-proposal-class-properties": "7.10.4",
+    "@babel/plugin-proposal-optional-chaining": "7.11.0",
+    "@babel/plugin-transform-runtime": "7.11.0",
+    "@babel/preset-env": "7.11.0",
+    "@babel/preset-typescript": "7.10.4",
+    "@types/jest": "26.0.9",
+    "@types/lodash": "^4.14.159",
+    "@types/node": "8",
+    "@typescript-eslint/eslint-plugin": "^3.6.1",
+    "babel-jest": "26.2.2",
+    "eslint": "7.6.0",
+    "eslint-config-airbnb-typescript": "9.0.0",
+    "eslint-plugin-import": "^2.22.0",
+    "husky": "4.2.5",
+    "jest": "26.2.2",
+    "lint-staged": "10.2.11",
+    "prettier": "2.0.5",
+    "typescript": "3.9.7"
+  },
+  "husky": {
+    "hooks": {
+      "pre-commit": "lint-staged"
+    }
+  },
+  "lint-staged": {
+    "*.{html,md,yml}": [
+      "prettier --write --ignore-path=./.eslintignore",
+      "git add"
+    ],
+    "*.{ts,js}": [
+      "yarn lint",
+      "git add"
+    ]
+  },
+  "dependencies": {
+    "lodash": "4.17.20"
+  }
 }
