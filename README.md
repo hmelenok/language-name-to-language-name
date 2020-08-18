@@ -4,7 +4,17 @@ Language names on other language names (base list from ISO 639-1)
 Goal of project, to have compact way to get all language names in other than english languages to use on localized sites
 
 ## Milestones
-- [ ] - support 9 languages(Ukrainian, Finnish, French, German, Norwegian, Portugese, Russian, Spanish, Swedish) with all 184 language names of ISO 639-1
+support 9 languages(English, Ukrainian, Finnish, French, German, Norwegian, Portugese, Russian, Spanish, Swedish) with all 184 language names of ISO 639-1:
+- [x] - English
+- [x] - Ukrainian
+- [ ] - Finnish
+- [x] - French
+- [ ] - German
+- [ ] - Norwegian
+- [ ] - Portugese
+- [ ] - Russian
+- [ ] - Spanish
+- [ ] - Swedish
 
 ## List of ISO 639-1 codes
 ### List of language names ordered by code
