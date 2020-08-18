@@ -1,6 +1,7 @@
 export default {
   aa: 'Afar',
   ab: 'Abkhazian',
+  ae: 'Avestan',
   af: 'Afrikaans',
   ak: 'Akan',
   am: 'Amharic',
@@ -96,6 +97,7 @@ export default {
   ln: 'Lingala',
   lo: 'Laotian',
   lt: 'Lithuanian',
+  lu: 'Luba-Katanga',
   lv: 'Latvian',
   mg: 'Malagasy',
   mh: 'Marshallese',
@@ -109,6 +111,7 @@ export default {
   mt: 'Maltese',
   my: 'Burmese',
   na: 'Nauruan',
+  nb: 'Norwegian Bokmål',
   nd: 'North Ndebele',
   ne: 'Nepali',
   ng: 'Ndonga',
@@ -182,5 +185,4 @@ export default {
   za: 'Zhuang',
   zh: 'Chinese',
   zu: 'Zulu',
-  nb: 'Norwegian Bokmål',
 };

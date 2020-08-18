@@ -5,6 +5,13 @@ import { langToLang } from './index';
 const LIST_LENGTH = 184;
 
 describe('langToLang', () => {
+  it('should have all keys', () => {
+    const map = langToLang('en');
+    const mapFr = langToLang('fr');
+    const mapUk = langToLang('fr');
+    expect(Object.keys(map)).toEqual(Object.keys(mapFr));
+    expect(Object.keys(map)).toEqual(Object.keys(mapUk));
+  });
   it('should return all English names + native', () => {
     expect(Object.keys(langToLang('en'))).toHaveLength(LIST_LENGTH);
   });

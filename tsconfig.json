@@ -1,5 +1,6 @@
 {
   "compilerOptions": {
+    "outDir": "lib",
     "allowSyntheticDefaultImports": true,
     "module": "commonjs",
     "target": "esnext",
