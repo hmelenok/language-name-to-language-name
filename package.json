@@ -1,0 +1,10 @@
+{
+  "name": "language-name-to-language-name",
+  "version": "0.0.1",
+  "description": "Language names on other language names (base list from ISO 639-1)",
+  "main": "lib",
+  "repository": "git@github.com:hmelenok/language-name-to-language-name.git",
+  "author": "Khmel Mykyta <hmelenok@gmail.com>",
+  "license": "MIT",
+  "private": false
+}
