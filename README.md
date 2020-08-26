@@ -24,6 +24,24 @@ Other goals:
 - Support 639-2 language variants(need more data)
 - Support 639-3 language variants(need more data)
 
+## Examples
+
+```ecmascript
+import {langToLang} from 'language-name-to-language-name';
+
+const mapFr = langToLang('fr');
+/*
+{
+      zu: { name: 'zoulou', native: 'isiZulu', dir: 1 },
+      zh: { name: 'chinois', native: '中文', dir: 1 },
+      za: { name: 'zhuang; chuang', native: 'Cuengh / Tôô / 壮语', dir: 1 },
+      yo: { name: 'yoruba', native: 'Yorùbá', dir: 1 },
+      ...
+}
+*/
+
+```
+
 ## List of ISO 639-1 codes
 
 ### List of language names ordered by code
