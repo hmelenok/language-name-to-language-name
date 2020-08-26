@@ -26,10 +26,10 @@ Other goals:
 
 ## Examples
 
-```ecmascript
-import {langToLang} from 'language-name-to-language-name';
+```javascript
+import { langToLang } from "language-name-to-language-name";
 
-const mapFr = langToLang('fr');
+const mapFr = langToLang("fr");
 /*
 {
       zu: { name: 'zoulou', native: 'isiZulu', dir: 1 },
@@ -39,7 +39,6 @@ const mapFr = langToLang('fr');
       ...
 }
 */
-
 ```
 
 ## List of ISO 639-1 codes
