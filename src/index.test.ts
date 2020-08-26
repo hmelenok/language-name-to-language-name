@@ -2,15 +2,17 @@ import dir from './maps/dir';
 import native from './maps/native';
 import { langToLang } from './index';
 
-const LIST_LENGTH = 184;
+const LIST_LENGTH = 186;
 
 describe('langToLang', () => {
   it('should have all keys', () => {
     const map = langToLang('en');
     const mapFr = langToLang('fr');
-    const mapUk = langToLang('fr');
+    const mapDe = langToLang('de');
+    const mapUk = langToLang('uk');
     expect(Object.keys(map)).toEqual(Object.keys(mapFr));
     expect(Object.keys(map)).toEqual(Object.keys(mapUk));
+    expect(Object.keys(map)).toEqual(Object.keys(mapDe));
   });
   it('should return all English names + native', () => {
     expect(Object.keys(langToLang('en'))).toHaveLength(LIST_LENGTH);

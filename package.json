@@ -13,8 +13,9 @@
   "private": false,
   "scripts": {
     "lint": "eslint . --cache --fix --ignore-path=.eslintignore",
-    "extract-french": "node ./scripts/extract-french.js",
+    "extract-fr": "node ./scripts/extract-french.js",
     "extract-uk": "node ./scripts/extract-ukrainian.js",
+    "extract-de": "node ./scripts/extract-german.js",
     "build": "rm -rf lib/ && yarn build:types && babel src --out-dir lib --ignore '**/*.test.ts' --extensions '.ts'",
     "build:types": "tsc --outDir lib",
     "coverage": "jest --coverage",

@@ -6,7 +6,18 @@ Goal of project, to have compact way to get all language names in other than eng
 
 ## Milestones
 
-- [ ] - support 9 languages(Ukrainian, Finnish, French, German, Norwegian, Portuguese, Russian, Spanish, Swedish) with all 184 language names of ISO 639-1
+support 9 languages with all 184 language names of ISO 639-1:
+
+- [x] English (source)
+- [x] Ukrainian
+- [ ] Finnish (need help)
+- [x] French
+- [x] German
+- [ ] Norwegian
+- [ ] Portuguese
+- [ ] Russian
+- [ ] Spanish
+- [ ] Swedish
 
 ## List of ISO 639-1 codes
 
