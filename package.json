@@ -6,8 +6,11 @@
   "files": [
     "lib/"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hmelenok/language-name-to-language-name.git"
+  },
   "types": "./lib/index.d.ts",
-  "repository": "git@github.com:hmelenok/language-name-to-language-name.git",
   "author": "Khmel Mykyta <hmelenok@gmail.com>",
   "license": "MIT",
   "private": false,
@@ -18,7 +21,7 @@
     "extract-de": "node ./scripts/extract-german.js",
     "extract-ru": "node ./scripts/extract-russian-with-german.js",
     "build": "rm -rf lib/ && yarn build:types && babel src --out-dir lib --ignore '**/*.test.ts' --extensions '.ts'",
-    "build:types": "tsc --outDir lib",
+    "build:types": "tsc -p tsconfig.types.json",
     "coverage": "jest --coverage",
     "prepack": "yarn build",
     "test": "TZ=UTC jest",
