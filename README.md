@@ -1,7 +1,7 @@
 # language-name-to-language-name
 
 Language names on other language names (base list from ISO 639-1)
-**IMPORTANT!:** Initial map of languages goes from https://github.com/dejurin/language-name-map
+
 Goal of project, to have compact way to get all language names in other than english languages to use on localized sites
 
 ## Milestones
