@@ -10,14 +10,14 @@ Support 9 languages with all 184 language names of ISO 639-1:
 
 - [x] English (source)
 - [x] Ukrainian
-- [ ] Finnish (need help)
+- [x] Russian
 - [x] French
 - [x] German
 - [ ] Norwegian
 - [ ] Portuguese
-- [ ] Russian
 - [ ] Spanish
 - [ ] Swedish
+- [ ] Finnish (need help)
 
 Other goals:
 
