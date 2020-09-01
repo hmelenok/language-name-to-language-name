@@ -1,0 +1,475 @@
+ааr|Afar|Афар
+aba|Abaza|Абазинский
+abk|Abkhazian|Абхазский
+асе|Achinese|Ачехский
+ach|Acoli|Ачоли
+ada|Adangme|Адангме
+ady|Adyghe|Адыгейский
+afa|Afro-Asiatic (Other)|Афразийские (другие)
+afh|Afrihili|Африхили
+afr|Afrikaans|Африкаанс
+aka|Akan|Акан
+akh|Akhwakh|Ахвахский
+akk|Akkadian|Аккадский
+alb/sqi|Albanian|Албанский
+ale|Aleut|Алеутский
+alg|Algonquian languages|Алгонкинские языки
+alt|Altai|Алтайский
+amh|Amharic|Амхарский
+ang|"English, Old (ca. 450-1100)",Староанглийский
+ара|Apache languages|Апачские языки
+ara|Arabic|Арабский
+arc|Aramaic|Арамейский
+arm/hyе|Armenian|Армянский
+arn|Araucanian|Арауканский
+arp|Arapaho|Арапахо
+art|Artificial (Other)|Искусственные (другие)
+arw|Arawak|Аравакский
+asm|Assamese|Ассамский
+ass|Assyrian|Ассирийский
+ath|Athapascan languages|Атапачские языки
+ava|Avaric|Аварский
+ave|Avestan|Авестийский
+awa|Awadhi|Авадхи
+aym|Aymara|Аймара
+aze|Azerbaijani|Азербайджанский
+bad|Banda|Банда
+bai|Bamileke languages|Бамилеке языки
+bak|Bashkir|Башкирский
+bal|Baluchi|Белуджский
+bam|Bambara|Бамбара
+ban|Balinese|Балийский
+baq/eus|Basque|Баскский
+bas|Basa|Баса
+bat|Baltic (Other)|Балтийские (другие)
+bej|Beja|Беджа
+bel|Byelorussian|Белорусский
+bem|Bemba|Бемба
+ben|Bengali|Бенгальский
+ber|Berber languages|Берберские (другие)
+bho|Bhojpuri|Бходжпури
+bih|Bihari|Бихари
+bik|Bikol|Бикольский
+bin|Bini|Бини
+bis|Bislama|Бислама
+bla|Siksika|Сиксика
+bnt|Bantu (Other)|Банту (другие)
+bod/tib|Tibetan|Тибетский
+bra|Braj|Брауи
+bre|Breton|Бретонский
+bua|Buriat|Бурятский
+bug|Buginese|Бугийский
+bul|Bulgarian|Болгарский
+bur/mya|Burmese|Бирманский
+cad|Caddo|Каддо
+cai|Central American Indian (Other)|Центральной Америки индейцев (другие)
+car|Carib|Кариб
+cat|Catalan|Каталанский
+cau|Caucasian (Other)|Кавказские (другие)
+ceb|Cebuano|Себуано
+cel|Celtic (Other)|Кельтские (другие)
+ces/cze|Czech|Чешский
+cha|Chamorro|Чаморро
+chb|Chibcha|Чибча
+che|Chechen|Чеченский
+chg|Chagatai|Чагатайский
+chi/zho|Chinese|Китайский
+chk|Chukchee|Чукотский
+chm|Mari|Марийский
+chn|Chinook jargon|Чинук жаргон
+cho|Choctaw|Чоктав
+chr|Cherokee|Чeроки
+chu|Church Slavic|Церковно-славянский
+chv|Chuvash|Чувашский
+chy|Cheyenne|Чейенн
+cop|Coptic|Коптский
+cor|Cornish|Корнский
+cos|Corsican|Корсиканский
+cpe|"Creoles and pidgins, English-based (Other)",Англо-креольские и пиджины (другие)
+cpf|Creoles and pidgins French-based (Other)|Франко-креольские и пиджины (другие)
+cpp|"Creoles and pidgins, Portuguese-based (Other)",Португало-креольские и пиджины (другие)
+cre|Cree|Кри
+cri|Crimean-tatar|Крымско-татарский
+crp|Creoles and pidgins (Other)|Креольские и пиджины (другие)
+cus|Cushitic (Other)|Кушитские (другие)
+cym/wel|Welsh|Валлийский (Уэльский)
+cze/ces|Czech|Чешский
+dag|Dargwa|Даргинский
+dak|Dakota|Дакота
+dan|Danish|Датский
+del|Delaware|Делаварский
+deu/ger|German|Немецкий
+din|Dinka|Динка
+div|Divehi|Дивехи (Мальдивский)
+doi|Dogri|Догри
+dra|Dravidian (Other)|Дравидийские (другие)
+dua|Duala|Дуала
+dum|"Dutch, Middle (ca. 1050-1350)",Нидерландский средневековый
+dun|Dungan|Дунганский
+dut/ndl|Dutch|Нидерландский
+dyu|Dyula|Диула (Дьюла)
+dzo|Dzongkha|Дзонг-кэ
+efi|Efik|Эфик
+egy|Egyptian (Ancient)|Древнеегипетский
+eka|Ekajuk|Экаджук
+ell/gre|Greek, Modern (1453- ),Греческий (новогреческий)
+elx|Elamite|Эламский
+eng|English|Английский
+enm|English, Middle (1100-1500),Среднеанглийский
+epo|Esperanto|Эсперанто
+erz|Erzya Mordvinian|Эрзянский
+esk|Eskimo (Other)|Эскимосские(другие)
+esl/spa|Spanish|Испанский
+est|Estonian|Эстонский
+eus/baq|Basque|Баскский
+ewe|Ewe|Эве
+ewo|Ewondo|Эвондо
+fan|Fang|Фанг
+fao|Faroese|Фарерский
+fas/per|Persian|Персидский
+fat|Fanti|Фанти
+fij|Fijian|Фиджи
+fin|Finnish|Финский
+fiu|Finno-Ugrian (Other)|Финно-угорские (другие)
+ton|Fon|Фон
+fra/fre|French|Французский
+fre/fra|French|Французский
+frm|French, Middle (ca. 1400-1600),Среднефранцузский
+fro|French, Old (ca. 842-1400),Старофранцузский
+fry|Frisian|Фризский
+ful|Fulah|Фулах
+gaa|Ga|Га
+gae/gdh|Gaelic (Scots)|Гаэльский (Шотландский)
+gag|Gagauz|Гагаузский
+gai/iri|Irish|Ирландский
+gay|Gayo|Гайо
+gdh/gae|Gaelic (Scots)|Гаэльский (Шотландский)
+gem|Germanic (Other)|Германские (другие)
+geo/kat|Georgian|Грузинский
+ger/deu|German|Немецкий
+gez|Geez|Геэз
+gil|Gilbertese|Гильбертский
+giy|Gilyak|Нивхский
+gtg|Gallegan|Галисийский
+gmh|German, Middle High (ca. 1050-1500),Средневерхненемецкий
+goh|German, Old High (ca. 750-1050),Староверхненемецкий
+gol|Gold (Nanai)|Нанайский
+gon|Gondi|Гонди
+got|Gothic|Готский
+grb|Grebo|Гребо
+grc|Greek, Ancient (to 1453),Древнегреческий
+gre/ell|Greek, Modern (1453- ),Греческий (новогреческий)
+grn|Guarani|Гуарани
+guj|Cujarati|Гуджарати
+hai|Haida|Хайда
+hau|Hausa|Хауса
+haw|Hawaiian|Гавайский
+heb|Hebrew|Иврит
+her|Herero|Гереро
+hil|Hiligaynon|Хилигайнон
+him|Himachali|Химачали
+hin|Hindi|Хинди
+hmo|Hiri Motu|Хиримоту
+hun|Hungarian|Венгерский
+hup|Hupa|Хупа
+hye/arm|Armenian|Армянский
+iba|Iban|Ибанский
+ibo|Igbo|Игбо
+ice/isl|Icelandic|Исландский
+ijo|Ijo|Иджо
+ido|Ido|Идо
+iii|Sichuan Yi, Nuosu|Сино-тибетский
+iku|Inuktitut|Инуктитут
+ile|Interlingue|Интерлингве
+ilo|Iloko|Илоко
+ina|Inyrtligua (International Auxiliary Language Association)|Интерлингва
+inc|Indic (Other)|Индийский (другие)
+ind|Indonesian|Индонезийский
+ine|Indo-European (Other)|Индоевропейские (другие)
+ing|Ingush|Ингушский
+ipk|Inupiak|Инупиак
+ira|Iranian (Other)|Иранские (другие)
+iri/gai|Irish|Ирландский
+iro|Iroquoian languages|Ирокезские языки
+isl/ice|Icelandic|Исландский
+ita|Italian|Итальянский
+ite|Itelmic|Ительменский
+jav/jaw|Javanese|Яванский
+jaw/jav|Javanese|Яванский
+jpn|Japanese|Японский
+jpr|Judeo-Persian|Еврейско-персидский
+jrb|Judeo-Arabic|Еврейско- арабский
+kaa|Kara-Kalpak|Каракалпакский
+kab|Kabule|Кабильский
+kac|Kachin|Качинский
+kad|Kabardian (Circassian)|Кабардино-черкесский
+kae|Karelian|Карельский
+kah|Karachai-Balkar|Карачаево-балкарский
+kai|Karaitian|Караимский
+kak|Kalmuck|Калмыцкий
+kal|Greenlandic|Эскимосский
+kam|Kamba|Камба
+kan|Kannada|Каннада
+kar|Karen|Каренский
+kas|Kashmiri|Кашмири
+kat/geo|Georgian|Грузинский
+kau|Kannuri|Канури
+kaw|Kawi|Кави
+kaz|Kazakh|Казахский
+kha|Khasi|Кхаси
+khi|Khoisan (Other)|Койсанские (другие)
+khk|Khakaz (Abakan Turkish)|Хакасский
+khm|Khmer|Кхмерский
+kho|Khotanese|Хотанский
+kik|Kikuyu|Кикуйю
+kin|Kinyarwanda|Киньяруанда
+kyr|Kyrgyz|Киргизский (Кыргызский)
+kir|Kyrgyz|Киргизский (Кыргызский)
+kok|Konkani|Конкани
+kom|Komi|Коми
+kon|Kongo|Конго
+kor|Korean|Корейский
+koy|Koryak|Корякский
+kpe|Kpelle|Кпелле
+kro|Kru|Кру
+kru|Kurukh|Курух
+kua|Kuanyama|Киньяма
+kum|Kumyk|Кумыкский
+kur|Kurdish|Курдский
+kus|Kusaie|Кусайе
+kut|Kutenai|Кутенаи
+lad|Ladino|Ладино
+lah|Lahnda|Лахнда
+lak|Lak|Лакский
+lam|Lamba|Ламба
+lao|Lao|Лаосский
+lat|Latin|Латинский
+lau|Lamut|Эвенский
+lav|Latvian|Латышский
+lez|Lezghian|Лезгинский
+lim|Limburgish|Лимбургский
+lin|Lingala|Лингала
+lit|Lithuanian|Литовский
+lol|Mongo|Монго
+loz|Lozi|Лози
+ltz|Letzeburgesch|Люксембургский
+lub|Luba-Katanga|Луба-Катанга
+lug|Ganda|Ганда
+lui|Luiseno|Луисеньо
+lun|Lunda|Лунда
+luo|Luo (Kenya and Tanzania)|Луо (Кения и Танзания)
+mac/mke|Macedonian|Македонский
+mad|Madurese|Мадурский
+mag|Magahi|Магахи
+mah|Marshall|Маршальский
+mai|Maithili|Майтхили
+mak|Makasar|Макассарский
+mal|Malayalam|Малаялам
+man|Mandingo|Мандинго
+mao/mri|Maori|Маори
+map|Austronesian (Other)|Австронезийские (другие)
+mar|Marathi|Маратхи
+mas|Masai|Масаи
+max|Manx|Мэнкский
+may/msa|Malay|Малайский
+men|Mende|Менде
+mga|Irish, Middle (900-1200),Среднеирландский
+mic|Micmac|Микмак
+min|Minangkabau|Минангкабау
+mis|Miscellaneous (Other)|Смешанные (другие)
+mke/mac|Macedonian|Македонский
+mkh|Mon-Khmer (Other)|Монкхмерские (другие)
+mlg|Malagasy|Малагасийский
+mlt|Maltese|Мальтийский
+mni|Manipuri|Манипурский
+mno|Manobo languages|Манобо языки
+moh|Mohawk|Мохаук
+mok|Moksha-Mordvinian|Мокшанский (Мокша-мордовский)
+mol|Moldavian|Молдавский
+mon|Mongolian|Монгольский
+mos|Mossi|Моси
+mri/mao|Maori|Маори
+msa/may|Malay|Малайский
+mul|Multiple languages|Разных семей языки
+mun|Munda languages|Мунда языки
+mus|Creek|Крик
+mwr|Marwari|Марвари
+mya/bur|Burmese|Бирманский
+myn|Mayan languages|Майя языки
+nan|Aztec|Ацтекский
+nai|North American Indian (Other)|Северной Америки индейцев (другие)
+nau|Nauru|Науру
+nav|Navajo|Навахо
+nbl|Ndebele, South,Ндебеле южный
+nde|Ndebele, North,Ндебеле северный
+ndl/dut|Dutch|Нидерландский
+ndo|Ndonga|Ндунга
+nep|Nepali|Непальский
+new|Newari|Неварский
+nic|Niger-Kordofanian (Other)|Нигер-кордофанские (другие)
+niu|Niuean|Ниуэ
+nno|Norwegian (Nynorsk)|Нюнорск (Новонорвежский)
+nog|Nogai|Ногайский
+non|Norse, Old,Старонорвежский
+nor|Norwegian|Норвежский
+nob|Bokmål|Букмол
+nso|Sotho, Northern,Сото Северный
+nub|Nubian languages|Нубийские языки
+nya|Nyanja|Ньянджа
+nym|Nyamwezi|Ньямвези
+nyn|Nyankole|Ньянколе
+nyo|Nyoro|Ньоро
+nzi|Nzima|Нзима
+oci|Langue d'oc (post 1500)|Окситанский (лангедок)
+oji|Ojibwa|Оджибва
+ori|Oriya|Ория
+orm|Oromo|Оромо
+osa|Osage|Оседжи
+oss|Ossetic|Осетинский
+ost|Ostyd|Хантыйский
+ota|Turkish, Ottoman (1500-1928),Старотурецкий
+oto|Otomian languages|Отомангские языки
+paa|Papuan-Australian (Other)|Папуасско-австралийские (другие)
+pag|Pangasinan|Пангасинан
+pal|Pahlavi|Пехлевийский
+pam|Pampanga|Пампанга
+pan|Panjabi|Панджаби
+pap|Papiamento|Папьяменто
+pau|Palauan|Палау
+pem|Permyak|Коми-пермяцкий
+peo|Persian, Old (ca. 600-400 b.c.),Староперсидский
+per/fas|Persian|Персидский
+phn|Phoenician|Финикийский
+pli|Pali|Пали
+pol|Polish|Польский
+pon|Ponape|Понапе
+por|Portugese|Португальский
+pra|Prakrit languages|Пракриты языки
+pro|Provencal Old (to 1500)|Старопровансальский
+pus|Pushto|Пушту
+que|Quechua|Кечуа
+raj|Rajasthani|Раджастхани
+rar|Rarotongan|Раротонга
+roa|Romance (Other)|Романские (другие)
+roh|Raeto- Romance|Ретороманский
+rom|Romany|Цыганский
+ron/rum|Romanian|Румынский
+rum/ron|Romanian|Румынский
+run|Rundy|Рунди
+rus|Russian|Русский
+sad|Sandawe|Сандаве
+sag|Sango|Санго
+sah|Yakut|Якутский
+sai|South American Indian (Other)|Южной Америки индейцев (другие)
+sal|Salishan language|Салишские языки
+sam|Samaritan Aramaic|Самаритянский арамейский
+san|Sanskrit|Санскрит
+sco|Scots|Гаэльский (Шотландский)
+scr|Serbo-Croatian|Сербскохорватский
+sel|Selkup|Селькупский
+sem|Semitic (Other)|Семитские (другие)
+sga|Irish, Old (to 900),Староирландский
+shn|Shan|Шанский
+sid|Sidamo|Сидама
+sin|Sinhalese|Сингальский
+sio|Siouan languages|Сиу языки
+sit|Sino-Tibetan (Other)|Синотибетские (другие)
+sho|Shor|Шорский
+shu|Shughni|Шугнанский
+sla|Slavic (Other)|Славянские (другие)
+slk/slo|Slovak|Словацкий
+slo/slk|Slovak|Словацкий
+slv|Slovenian|Словенский
+smi|Sami languages|Саамские языки
+smo|Samoan|Самоанский
+sna|Shona|Шона
+snd|Sindhi|Синдхи
+sog|Sogdian|Согдийский
+som|Somali|Сомали
+son|Songhai|Сонгаи
+sot|Sotho, Southern|Сото Южный
+spa|Spanish|Испанский
+sqi/alb|Albanian|Албанский
+srd|Sardinian|Сардинский
+srr|Serer|Серер
+srp|Serbian|Сербский
+ssa|Nilo-Saharan (Other)|Нило-сахарские (другие)
+ssw|Swazi|Свази
+suk|Sukuma|Сукума
+sun|Sundanese|Сунданский
+sus|Susu|Сусу
+sux|Sumerian|Шумерский
+sve/swe|Swedish|Шведский
+swa|Swahili|Суахили
+swe/sve|Swedish|Шведский
+syr|Syriac|Сирийский
+tab|Tabasaran|Табасаранский
+tah|Tahitian|Таитянский
+tai|Tati|Татский
+tal|Talish|Талышский
+tam|Tamil|Тамильский
+tat|Tatar|Татарский
+tel|Telugu|Телугу
+tem|Timne|Темне
+ter|Tereno|Терено
+tgk|Tajik|Таджикский
+tgl|Tagalog|Тагалог
+tha|Thai|Таи
+tib/bod|Tibetan|Тибетский
+tig|Tigre|Тигре
+tir|Tigrinya|Тигринья
+tiv|Tivi|Тиви
+tli|Tlingit|Тлингит
+tmh|Tamashek|Тамашек
+tog|Tonga (Nyasa)|Тонга (Ньяса)
+ton|Tonga (Tonga Islands)|Тонга (Тонга Исландский)
+tru|Truk|Трук
+tsa|Tsakhur|Цахурский
+tsi|Tsimshian|Цимшиан
+tsn|Tswana|Тсвана
+tso|Tsonga|Тсонга
+tuk|Turkmen|Туркменский
+tum|Tumbuka|Тумбука
+tun|Tungus|Эвенкийский
+tur|Turkish|Турецкий
+tut|Altaic (Other)|Алтайские (другие)
+twi|Twi|Тви
+tyv|Tuvinian|Тувинский
+ude|Udehe|Удэгейский
+uga|Ugaritic|Угаритский
+uig|Uighur|Уйгурский
+ukr|Ukrainian|Украинский
+ulc|Ulcha|Ульчский
+umb|Umbundu|Умбунду
+und|Undetermined|Неидентифицированный
+urd|Urdu|Урду
+uzb|Uzbek|Узбекский
+vai|Vai|Ваи
+ven|Venda|Венда
+vep|Veps|Вепсский
+vie|Vietnamese|Вьетнамский
+vog|Vogul|Мансийский
+vol|Volapuk|Волапюк
+vot|Votic|Удмуртский
+wak|Wakashan language|Вакашские языки
+wln|Walloon|Валлонский
+wal|Walamo|Воламо
+war|Waray|Варай
+was|Washo|Вашо
+wel/cym|Welsh|Валлийский (Уэльский)
+wen|Sorbian languages|Лужицкие языки
+wol|Wolof|Волоф
+xho|Xhosa|Коса
+yao|Yao|Яо
+yap|Yap|Яп
+yid|Yiddish|Идиш
+yor|Yoruba|Йоруба
+yuk|Yukaghir|Юкагирский
+yur|Yurak-Samoyed|Ненецкий
+zap|Zapotec|Сапотекский
+zen|Zenaga|Зенагский
+zha|Zhuang|Чжуань
+zho/chi|Chinese|Китайский
+zul|Zulu|Зулу
+zun|Zuni|Зуньи
+hbs|Serbo-Croatian|Сербохорватский

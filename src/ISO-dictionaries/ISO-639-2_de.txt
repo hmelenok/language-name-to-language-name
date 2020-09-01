@@ -104,7 +104,7 @@ Maori|mi|mri|mao|mri
 Marathi|mr|mar|mar|mar
 Marshallesisch|mh|mah|mah|mah
 Mongolisch|mn|mon|mon|mon
-Moldauisch|mo|-|-|-
+Moldauisch|mo|mol|mol|mol
 Nauruisch|na|nau|nau|nau
 Navajo|nv|nav|nav|nav
 Nord-Ndebele|nd|nde|nde|nde

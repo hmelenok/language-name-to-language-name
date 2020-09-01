@@ -10,9 +10,11 @@ describe('langToLang', () => {
     const mapFr = langToLang('fr');
     const mapDe = langToLang('de');
     const mapUk = langToLang('uk');
+    const mapRu = langToLang('ru');
     expect(Object.keys(map)).toEqual(Object.keys(mapFr));
     expect(Object.keys(map)).toEqual(Object.keys(mapUk));
     expect(Object.keys(map)).toEqual(Object.keys(mapDe));
+    expect(Object.keys(map)).toEqual(Object.keys(mapRu));
   });
   it('should return all English names + native', () => {
     expect(Object.keys(langToLang('en'))).toHaveLength(LIST_LENGTH);
