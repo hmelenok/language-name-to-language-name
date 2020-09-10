@@ -13,7 +13,7 @@ Support 9 languages with all 184 language names of ISO 639-1:
 - [x] Russian
 - [x] French
 - [x] German
-- [ ] Norwegian
+- [x] Norwegian (Norsk bokmål)
 - [ ] Portuguese
 - [ ] Spanish
 - [ ] Swedish

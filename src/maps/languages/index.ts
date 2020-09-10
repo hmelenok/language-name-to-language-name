@@ -1,8 +1,9 @@
+import de from './de';
 import en from './en';
 import fr from './fr';
-import uk from './uk';
-import de from './de';
+import nb from './nb';
 import ru from './ru';
+import uk from './uk';
 
 export default {
   en,
@@ -10,4 +11,5 @@ export default {
   uk,
   de,
   ru,
+  nb,
 };

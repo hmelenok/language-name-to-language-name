@@ -1,0 +1,189 @@
+639-1|639-2|639-3|Språk|Eget navn|Merknader
+ab|abk|abk|Abkhasisk|Аҧсуа|
+ae|ave|ave|Avestisk|avesta|
+af|afr|afr|Afrikaans|Afrikaans|
+ak|aka|aka|Akan|Akan|
+am|amh|amh|Amharisk|አማርኛ|
+an|arg|arg|Aragonesisk|Aragonés|
+ar|ara|ara|Arabisk|‫العربية‬|Standard Arabisk er [arb]
+as|asm|asm|Assamesisk|অসমীয়া|
+av|ava|ava|Avarisk|авар мацӀ; магӀарул мацӀ|
+ay|aym|aym|Aymara|aymar aru|
+az|aze|aze|Aserbajdsjansk|azərbaycan dili|
+ba|bak|bak|Basjkirsk|башҡорт теле|
+be|bel|bel|Hviterussisk|Беларуская|
+bg|bul|bul|Bulgarsk|български език|
+bh|bih|--|Bihari|भोजपुरी||
+bi|bis|bis|Bislama|Bislama|
+bm|bam|bam|Bambara|bamanankan|
+bn|ben|ben|Bengali|বাংলা|
+bo|tib/bod|bod|Tibetansk|བོད་ཡིག|
+br|bre|bre|Bretonsk|brezhoneg|
+bs|bos|bos|Bosnisk|bosanski jezik|
+ca|cat|cat|Katalansk|Català|
+cdo|cdo|cdo|Min dong|Mìng-dĕ̤ng-ngṳ̄|
+ce|che|che|Tsjetsjensk|нохчийн мотт|
+ch|cha|cha|Chamorro|Chamoru|
+co|cos|cos|Korsikansk|corsu; lingua corsa|
+cr|cre|cre|Cree|ᓀᐦᐃᔭᐍᐏᐣ|
+cs|cze/ces|ces|Tsjekkisk|česky; čeština|
+cu|chu|chu|Kirkeslavisk||
+cv|chv|chv|Tsjuvasjisk|чӑваш чӗлхи|
+cy|wel/cym|cym|Walisisk|Cymraeg|
+da|dan|dan|Dansk|dansk|
+de|ger/deu|deu|Tysk|Deutsch|
+dv|div|div|Dhivehi|‫ދިވެހި‬|
+dz|dzo|dzo|Dzongkha|རྫོང་ཁ|
+ee|ewe|ewe|Ewe|Ɛʋɛgbɛ|
+el|gre/ell|ell|Gresk|Ελληνικά|
+en|eng|eng|Engelsk|English|
+eo|epo|epo|Esperanto|Esperanto|
+es|spa|spa|Spansk|español; castellano|
+et|est|est|Estisk|Eesti keel|
+eu|baq/eus|eus|Baskisk|euskara|
+fa|per/fas|fas|Persisk|‫فارسی‬|
+ff|ful|ful|Fulfulde|Fulfulde|
+fi|fin|fin|Finsk|Suomen kieli|
+fj|fij|fij|Fijisk|vosa Vakaviti|
+fo|fao|fao|Færøysk|Føroyskt|
+fr|fre/fra|fra|Fransk|français; langue française|
+fy|fry|fry|Frisisk|Frysk|
+ga|gle|gle|Irsk|Gaeilge|
+gd|gla|gla|Skotsk gælisk|Gàidhlig|
+gl|glg|glg|Galisisk|Galego|
+gn|grn|grn|Guaraní|Avañe'ẽ|
+gu|guj|guj|Gujarati|ગુજરાતી|
+gv|glv|glv|Mansk|Ghaelg|
+ha|hau|hau|Hausa|‫هَوُسَ‬|
+he|heb|heb|Hebraisk|‫עברית‬|
+hi|hin|hin|Hindi|हिन्दी|
+ho|hmo|hmo|Hiri motu|Hiri Motu|
+hr|scr/hrv|hrv|Kroatisk|Hrvatski|
+ht|hat|hat|Haitisk kreolsk|Kreyòl ayisyen|
+hu|hun|hun|Ungarsk|Magyar|
+hy|arm/hye|hye|Armensk|Հայերեն|
+hz|her|her|Herero|Otjiherero|
+ia|ina|ina|Interlingua (International Auxiliary Language Association)|Interlingua|
+id|ind|ind|Indonesisk|Bahasa Indonesia|
+ie|ile|ile|Interlingue|Interlingue|
+ig|ibo|ibo|Ibo|Igbo|
+ii|iii|iii|Yi|ꆇꉙ|
+ik|ipk|ipk|Inupiak|Iñupiaq; Iñupiatun|
+io|ido|ido|Ido|Ido|
+is|ice/isl|isl|Islandsk|Íslenska|
+it|ita|ita|Italiensk|Italiensk|
+iu|iku|iku|Inuittisk|ᐃᓄᒃᑎᑐᑦ|
+ja|jpn|jpn|Japansk|日本語 (にほんご)|
+jv|jav|jav|Javanesisk|basa Jawa|
+ka|geo/kat|kat|Georgisk|ქართული|
+kg|kon|kon|kongo|KiKongo|
+ki|kik|kik|kikuya|Gĩkũyũ|
+kj|kua|kua|Kwanyama|Kuanyama|
+kk|kaz|kaz|Kasakhisk|Қазақ тілі|
+kl|kal|kal|Grønlandsk|kalaallisut; kalaallit oqaasii|
+km|khm|khm|Khmer|ភាសាខ្មែរ|
+kn|kan|kan|Kannada|ಕನ್ನಡ|
+ko|kor|kor|Koreansk|한국어 (韓國語); 조선말 (朝鮮語)|
+kr|kau|kau|Kanuri|Kanuri|
+ks|kas|kas|Kasjmiri|कश्मीरी; ‫كشميري‬|
+ku|kur|kur|Kurdisk|Kurdî; ‫كوردی‬|
+kv|kom|kom|Syrjensk|коми кыв|
+kw|cor|cor|Kornisk|Kernewek|
+ky|kir|kir|Kirgisisk|кыргыз тили|
+la|lat|lat|Latin|latine; lingua latina|
+lb|ltz|ltz|Luxembourgsk|Lëtzebuergesch|
+lg|lug|lug|Luganda|Luganda|
+li|lim|lim|Limburgsk|Limburgs|
+ln|lin|lin|Lingala|Lingála|
+lo|lao|lao|Laotisk|ພາສາລາວ|
+lt|lit|lit|Litauisk|lietuvių kalba|
+lu|lub|lub|Luba-Katanga||
+lv|lav|lav|Latvisk|latviešu valoda|
+mg|mlg|mlg|Gassisk|Malagasy fiteny|
+mh|mah|mah|Marshallesisk|Kajin M̧ajeļ|
+mi|mao/mri|mri|Maorisk|te reo Māori|
+mk|mac/mkd|mkd|Makedonsk|македонски јазик|
+ml|mal|mal|Malayalam|മലയാളം|
+mn|mon|mon|Mongolsk|Монгол|
+mo|mol|mol|Moldovsk|лимба молдовеняскэ|
+mr|mar|mar|Marathi|मराठी|
+ms|may/msa|msa|Malayisk|bahasa Melayu; ‫بهاس ملايو‬|Malay (specific) is [mly]
+mt|mlt|mlt|Maltesisk|Malti|
+my|bur/mya|mya|Burmesisk|ဗမာစာ|
+na|nau|nau|Naurisk|Ekakairũ Naoero|
+nb|nob|nob|Bokmål|Norsk bokmål|
+nd|nde|nde|Nord-ndebele|isiNdebele|
+ne|nep|nep|Nepali|नेपाली|
+ng|ndo|ndo|Ndonga|Owambo|
+nl|dut/nld|nld|Nederlandsk|Nederlands|
+nn|nno|nno|Nynorsk|Norsk nynorsk|
+no|nor|nor|Norsk|Norsk|
+nr|nbl|nbl|Sør-ndebele|Ndébélé|
+nv|nav|nav|Navajo|Diné bizaad; Dinékʼehǰí|
+ny|nya|nya|Chichewa|chiCheŵa; chinyanja|
+oc|oci|oci|Oksitansk|Occitan|
+oj|oji|oji|Ojibwa|ᐊᓂᔑᓈᐯᒧᐎᓐ|
+om|orm|orm|Oromo|Afaan Oromoo|
+or|ori|ori|Oriya|ଓଡ଼ିଆ|
+os|oss|oss|Ossetisk|Ирон æвзаг|
+pa|pan|pan|Punjabi|ਪੰਜਾਬੀ; ‫پنجابی‬|
+pi|pli|pli|Pali|पािऴ|
+pl|pol|pol|Polsk|polski|
+ps|pus|pus|Pashto|‫پښتو‬|
+pt|por|por|Portugisisk|Português|
+qu|que|que|Quechua|Runa Simi; Kichwa|
+rm|roh|roh|Retoromansk|rumantsch grischun|
+rn|run|run|Kirundi|kiRundi|
+ro|rum/ron|ron|Rumensk|română|
+ru|rus|rus|Russisk|русский язык|
+rw|kin|kin|Kinyarwanda|Kinyarwanda|
+sa|san|san|Sanskrit|संस्कृतम्|
+sc|srd|srd|Sardisk|sardu|
+sd|snd|snd|Sindhi|सिन्धी; ‫سنڌي، سندھی‬|
+se|sme|sme|Nordsamisk|Davvisámegiella|
+sg|sag|sag|Sango|yângâ tî sängö|
+sh|--|hbs|Serbokroatisk|Српскохрватски|
+si|sin|sin|Singalesisk|සිංහල|
+sk|slo/slk|slk|Slovakisk|slovenčina|
+sl|slv|slv|Slovensk|slovenščina|
+sm|smo|smo|Samoansk|gagana fa'a Samoa|
+sn|sna|sna|Shona|chiShona|
+so|som|som|Somali|Soomaaliga; af Soomaali|
+sq|alb/sqi|sqi|Albansk|Shqip|
+sr|scc/srp|srp|Serbisk|српски језик|
+ss|ssw|ssw|Swati|SiSwati|
+st|sot|sot|Sesotho|seSotho|
+su|sun|sun|Sundanesisk|Basa Sunda|
+sv|swe|swe|Svensk|Svenska|
+sw|swa|swa|Swahili|Kiswahili|
+ta|tam|tam|Tamilsk|தமிழ்|
+te|tel|tel|Telugu|తెలుగు|
+tg|tgk|tgk|Tadsjikisk|тоҷикӣ; toğikī; ‫تاجیکی‬|
+th|tha|tha|Thai|ไทย|
+ti|tir|tir|Tigrinya|ትግርኛ|
+tk|tuk|tuk|Turkmensk|Türkmen; Түркмен|
+tl|tgl|tgl|Tagalog|Tagalog|
+tn|tsn|tsn|Tswana|seTswana|
+to|ton|ton|Tonganesisk|faka Tonga|
+tr|tur|tur|Tyrkisk|Türkçe|
+ts|tso|tso|Tsonga|xiTsonga|
+tt|tat|tat|Tatarisk|татарча; tatarça; ‫تاتارچا‬|
+tw|twi|twi|Twi|Twi|
+ty|tah|tah|Tahitisk|Reo Mā`ohi|
+ug|uig|uig|Uigurisk|Uyƣurqə; ‫ئۇيغۇرچ ‬|
+uk|ukr|ukr|Ukrainsk|українська мова|
+ur|urd|urd|Urdu|‫اردو‬|
+uz|uzb|uzb|Usbekisk|O'zbek; Ўзбек; ‫أۇزبېك‬|
+ve|ven|ven|Venda|tshiVenḓa|
+vi|vie|vie|Vietnamesisk|Tiếng Việt|
+vo|vol|vol|Volapük|Volapük|
+wa|wln|wln|Vallonsk|Walon|
+wo|wol|wol|Wolof|Wollof|
+xh|xho|xho|Xhosa|isiXhosa|
+yi|yid|yid|Jiddisk|‫ייִדיש‬|
+yo|yor|yor|Joruba|Yorùbá|
+za|zha|zha|Zhuang|Saɯ cueŋƅ; Saw cuengh|
+zea|zea|zea|Zeeuws|Zeêuws|
+zh|chi/zho|zho|Kinesisk|中文、汉语、漢語|
+zu|zul|zul|Zulu|isiZulu|
+aa|aar|aar|Afar|Afaraf|
