@@ -65,8 +65,5 @@
       "yarn lint",
       "git add"
     ]
-  },
-  "dependencies": {
-    "lodash": "4.17.20"
   }
 }
