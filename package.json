@@ -1,6 +1,6 @@
 {
   "name": "language-name-to-language-name",
-  "version": "0.1.1",
+  "version": "0.2.0",
   "description": "Language names on other language names (base list from ISO 639-1)",
   "main": "lib/",
   "files": [
