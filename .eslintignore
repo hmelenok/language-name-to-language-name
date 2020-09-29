@@ -3,3 +3,4 @@ lib/
 .idea/
 package.json
 tsconfig.json
+coverage/
