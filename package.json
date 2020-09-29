@@ -21,6 +21,7 @@
     "extract-de": "node ./scripts/extract-german.js",
     "extract-ru": "node ./scripts/extract-russian-with-german.js",
     "extract-nb": "node ./scripts/extract-norsk-bokmal.js",
+    "extract-country-names": "node ./scripts/extract-country-codes.js",
     "build": "rm -rf lib/ && yarn build:types && babel src --out-dir lib --ignore '**/*.test.ts' --extensions '.ts'",
     "build:types": "tsc -p tsconfig.types.json",
     "coverage": "jest --coverage",
