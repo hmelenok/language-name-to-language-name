@@ -1,6 +1,7 @@
 export default {
   aa: 1,
   ab: 1,
+  ae: 0,
   af: 1,
   ak: 1,
   am: 1,
@@ -96,6 +97,7 @@ export default {
   ln: 1,
   lo: 1,
   lt: 1,
+  lu: 1,
   lv: 1,
   mg: 1,
   mh: 1,
@@ -109,6 +111,7 @@ export default {
   mt: 1,
   my: 1,
   na: 1,
+  nb: 1,
   nd: 1,
   ne: 1,
   ng: 1,
@@ -182,5 +185,4 @@ export default {
   za: 1,
   zh: 1,
   zu: 1,
-  nb: 1,
 };

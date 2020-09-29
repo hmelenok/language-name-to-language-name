@@ -77,9 +77,9 @@ describe('getLanguageNameWithCountry', () => {
 
 describe('maps', () => {
   it('dir', () => {
-    expect(Object.keys(dir)).toHaveLength(LIST_LENGTH);
+    expect(Object.keys(dir).reverse()).toEqual(Object.keys(langToLang('en')));
   });
   it('native', () => {
-    expect(Object.keys(native)).toHaveLength(LIST_LENGTH);
+    expect(Object.keys(native).reverse()).toEqual(Object.keys(langToLang('en')));
   });
 });

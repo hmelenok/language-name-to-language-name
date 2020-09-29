@@ -1,6 +1,7 @@
 export default {
   aa: 'Afar',
   ab: 'Аҧсуа',
+  ae: 'Avestan', // TODO: find native name
   af: 'Afrikaans',
   ak: 'Akana',
   am: 'አማርኛ',
@@ -96,6 +97,7 @@ export default {
   ln: 'Lingála',
   lo: 'ລາວ / Pha xa lao',
   lt: 'Lietuvių',
+  lu: 'Kiluba',
   lv: 'Latviešu',
   mg: 'Malagasy',
   mh: 'Kajin Majel / Ebon',
@@ -109,6 +111,7 @@ export default {
   mt: 'bil-Malti',
   my: 'Myanmasa',
   na: 'Dorerin Naoero',
+  nb: 'Norsk (bokmål)',
   nd: 'Sindebele',
   ne: 'नेपाली',
   ng: 'Oshiwambo',
@@ -182,5 +185,4 @@ export default {
   za: 'Cuengh / Tôô / 壮语',
   zh: '中文',
   zu: 'isiZulu',
-  nb: 'Norsk (bokmål)',
 };
