@@ -26,7 +26,7 @@ export default {
   ch: 'Chamorro',
   co: 'Corsican',
   cr: 'Cree',
-  cs: 'Čeština',
+  cs: 'Czech',
   cu: 'Old Church Slavonic / Old Bulgarian',
   cv: 'Chuvash',
   cy: 'Welsh',
