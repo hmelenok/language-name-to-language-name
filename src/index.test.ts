@@ -16,11 +16,13 @@ describe('langToLang', () => {
     const mapUk = langToLang('uk');
     const mapRu = langToLang('ru');
     const mapNb = langToLang('nb');
+    const mapEs = langToLang('es');
     expect(Object.keys(map)).toEqual(Object.keys(mapFr));
     expect(Object.keys(map)).toEqual(Object.keys(mapUk));
     expect(Object.keys(map)).toEqual(Object.keys(mapDe));
     expect(Object.keys(map)).toEqual(Object.keys(mapRu));
     expect(Object.keys(map)).toEqual(Object.keys(mapNb));
+    expect(Object.keys(map)).toEqual(Object.keys(mapEs));
   });
   it('should return all English names + native', () => {
     expect(Object.keys(langToLang('en'))).toHaveLength(LIST_LENGTH);
