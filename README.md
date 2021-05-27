@@ -15,7 +15,7 @@ Support 9 languages with all 184 language names of ISO 639-1:
 - [x] German
 - [x] Norwegian (Norsk bokmål)
 - [ ] Portuguese
-- [ ] Spanish
+- [x] Spanish
 - [ ] Swedish
 - [ ] Finnish (need help)
 
