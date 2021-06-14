@@ -5,10 +5,14 @@ import shortCountryCodes from './maps/countries/short';
 import languages from './maps/languages';
 import { LanguageNameMap, LanguageCode } from './types';
 
-export const langToLang = (language: LanguageCode = 'en'): LanguageNameMap => {
+export const langToLang = (language: LanguageCode = 'en'): LanguageNameMap | undefined => {
   const targetLanguage = languages[language];
+  if (!targetLanguage) {
+    return;
+  }
   const keys = Object.keys(targetLanguage);
 
+  // eslint-disable-next-line consistent-return
   return keys
     .map((currentLanguage) => ({
       value: targetLanguage[currentLanguage],
@@ -72,12 +76,14 @@ function getLanguageName(
  */
 function getLanguageNameWithCountry(
   localeCode: string,
-  possibleSourceLanguage: string = 'en',
+  possibleSourceLanguage: LanguageCode = 'en',
   shortCountryName: boolean = true,
-): { countryName: string; languageName?: string; shortCountryName?: boolean } {
+): { native: LanguageNameMap; countryName: any; languageName: string } {
   const [languageName, countryName] = localeCode.split('-');
   const hasCountryTranslated = possibleSourceLanguage in countryCodes;
   const hasShortCountryTranslated = possibleSourceLanguage in shortCountryCodes;
+  const listOfLanguages = langToLang(possibleSourceLanguage as LanguageCode);
+  const nativeList = listOfLanguages && listOfLanguages[languageName] ? listOfLanguages[languageName].native : '';
 
   if (hasCountryTranslated) {
     const currentCountryName = countryCodes[possibleSourceLanguage][countryName];
@@ -88,11 +94,13 @@ function getLanguageNameWithCountry(
           ? currentShortCountryName
           : currentCountryName) || '',
       languageName: getLanguageName(languageName, possibleSourceLanguage),
+      native: nativeList,
     };
   }
   return {
     countryName: countryCodes.en[countryName] || '',
     languageName: getLanguageName(languageName, possibleSourceLanguage),
+    native: nativeList,
   };
 }
 

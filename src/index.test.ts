@@ -58,23 +58,33 @@ describe('getLanguageNameWithCountry', () => {
   it('should return languageNames and countrynames', () => {
     const english = getLanguageNameWithCountry('en');
     const fancyEnglish = getLanguageNameWithCountry('en-GB');
+    const fancyEnglishES = getLanguageNameWithCountry('en-GB', 'es');
+    const fancyEnglishESLong = getLanguageNameWithCountry('en-GB', 'es', false);
     const fancierEnglish = getLanguageNameWithCountry('en-GB', undefined, false);
     const англійська = getLanguageNameWithCountry('en', 'uk');
     const nonExistent = getLanguageNameWithCountry('yoiuytrew', 'en');
     const nonExistentSource = getLanguageNameWithCountry('{}', 'ssadasdaasd');
 
-    expect(english).toEqual({ countryName: '', languageName: 'English' });
+    expect(english).toEqual({
+      countryName: '',
+      languageName: 'English',
+      native: 'English',
+    });
     expect(fancyEnglish).toEqual({
       countryName: 'United Kingdom',
       languageName: 'English',
+      native: 'English',
     });
     expect(fancierEnglish).toEqual({
       countryName: 'United Kingdom of Great Britain and Northern Ireland',
       languageName: 'English',
+      native: 'English',
     });
-    expect(англійська).toEqual({ countryName: '', languageName: 'Англійська' });
-    expect(nonExistent).toEqual({ countryName: '', languageName: '' });
-    expect(nonExistentSource).toEqual({ countryName: '', languageName: '' });
+    expect(англійська).toEqual({ countryName: '', languageName: 'Англійська', native: 'English' });
+    expect(nonExistent).toEqual({ countryName: '', languageName: '', native: '' });
+    expect(nonExistentSource).toEqual({ countryName: '', languageName: '', native: '' });
+    expect(fancyEnglishES).toEqual({ countryName: 'Reino Unido', languageName: 'Inglés', native: 'English' });
+    expect(fancyEnglishESLong).toEqual({ countryName: 'Reino Unido de Gran Bretaña e Irlanda del Norte', languageName: 'Inglés', native: 'English' });
   });
 });
 
