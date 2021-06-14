@@ -62,6 +62,7 @@ describe('getLanguageNameWithCountry', () => {
     const англійська = getLanguageNameWithCountry('en', 'uk');
     const nonExistent = getLanguageNameWithCountry('yoiuytrew', 'en');
     const nonExistentSource = getLanguageNameWithCountry('{}', 'ssadasdaasd');
+
     expect(english).toEqual({ countryName: '', languageName: 'English' });
     expect(fancyEnglish).toEqual({
       countryName: 'United Kingdom',
