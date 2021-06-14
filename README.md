@@ -23,7 +23,7 @@ Support 9 languages with all 184 language names of ISO 639-1:
 
 Other goals:
 
-- support ISO 3166-1 alpha-2 - (country codes)
+- support ISO 3166-1 alpha-2 - (country codes) - HALF done (English by standard other names auto-translated)
 - Support 639-2 language variants(need more data)
 - Support 639-3 language variants(need more data)
 
