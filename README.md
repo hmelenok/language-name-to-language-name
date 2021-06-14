@@ -1,5 +1,7 @@
 # language-name-to-language-name
 
+<span class="badge-npmversion"><a href="https://www.npmjs.com/package/language-name-to-language-name" title="View this project on NPM"><img src="https://img.shields.io/npm/v/language-name-to-language-name.svg" alt="NPM version" /></a></span>
+
 Language names on other language names (base list from ISO 639-1)
 
 Goal of project, to have compact way to get all language names in other than english languages to use on localized sites
@@ -15,7 +17,7 @@ Support 9 languages with all 184 language names of ISO 639-1:
 - [x] German
 - [x] Norwegian (Norsk bokmål)
 - [ ] Portuguese
-- [ ] Spanish
+- [x] Spanish
 - [ ] Swedish
 - [ ] Finnish (need help)
 
