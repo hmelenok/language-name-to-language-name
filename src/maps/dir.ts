@@ -185,4 +185,8 @@ export default {
   za: 1,
   zh: 1,
   zu: 1,
+  'en-GB': 1,
+  'es-MX': 1,
+  'pt-BR': 1,
+  'zh-TW': 1,
 };

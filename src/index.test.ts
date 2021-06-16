@@ -6,7 +6,7 @@ import {
   langToLang,
 } from './index';
 
-const LIST_LENGTH = 186;
+const LIST_LENGTH = 190;
 
 describe('langToLang', () => {
   it('should have all keys', () => {
@@ -45,12 +45,14 @@ describe('getLanguageName', () => {
     const англійська = getLanguageName('en', 'uk');
     const nonExistent = getLanguageName('yoiuytrew', 'uk');
     const nonExistentSource = getLanguageName('{}', 'ssadasdaasd');
+    const englishUK = getLanguageName('en-GB', 'uk');
     expect(english).toEqual('English');
     expect(fancyEnglish).toEqual('English');
     expect(fancyUkrainisch).toEqual('Ukrainisch');
     expect(англійська).toEqual('Англійська');
     expect(nonExistent).toEqual('');
     expect(nonExistentSource).toEqual('');
+    expect(englishUK).toEqual('Англійська (Англія)');
   });
 });
 

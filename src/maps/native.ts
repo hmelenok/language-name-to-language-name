@@ -191,5 +191,5 @@ export default {
   'en-GB': 'English (UK)',
   'es-MX': 'Español mexicano',
   'pt-BR': 'Português do Brasil',
-  'zh-TW': 'Traditional Chinese',
+  'zh-TW': '中文(台灣)',
 };
