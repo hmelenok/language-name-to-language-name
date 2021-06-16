@@ -31,6 +31,6 @@ jobs:
         uses: iansu/codecov-action-node@v1.0.1
         with:
           token: ${{secrets.CODECOV_TOKEN}} #required
-          file: ./clover.xml #optional
+          file: ./coverage/clover.xml #optional
           flags: unittests #optional
           name: codecov-umbrella #optional
