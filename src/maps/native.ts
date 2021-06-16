@@ -185,4 +185,11 @@ export default {
   za: 'Cuengh / Tôô / 壮语',
   zh: '中文',
   zu: 'isiZulu',
+  /**
+   * Extended List
+   */
+  'en-GB': 'English (UK)',
+  'es-MX': 'Español mexicano',
+  'pt-BR': 'Português do Brasil',
+  'zh-TW': 'Traditional Chinese',
 };

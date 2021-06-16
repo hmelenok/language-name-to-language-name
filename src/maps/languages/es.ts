@@ -185,4 +185,11 @@ export default {
   za: 'Chuan (o chuang, o zhuang)',
   zh: 'Chino',
   zu: 'Zulú',
+  /**
+   * Extended List
+   */
+  'en-GB': 'Inglés del Reino Unido',
+  'es-MX': 'Español (México)',
+  'pt-BR': 'Portugués Brasileño',
+  'zh-TW': 'Chino tradicional',
 };

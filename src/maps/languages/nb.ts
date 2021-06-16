@@ -185,4 +185,11 @@ export default {
   za: 'Zhuang',
   zh: 'Kinesisk',
   zu: 'Zulu',
+  /**
+   * Extended List
+   */
+  'en-GB': 'English (UK)',
+  'es-MX': 'Spansk (Mexico)',
+  'pt-BR': 'Brasiliansk portugisisk',
+  'zh-TW': 'Tradisjonell kinesisk',
 };
