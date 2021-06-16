@@ -23,7 +23,7 @@ Support 9 languages with all 184 language names of ISO 639-1:
 
 Other goals:
 
-- support ISO 3166-1 alpha-2 - (country codes)
+- support ISO 3166-1 alpha-2 - (country codes) - HALF done (English by standard other names auto-translated)
 - Support 639-2 language variants(need more data)
 - Support 639-3 language variants(need more data)
 
@@ -43,6 +43,40 @@ const mapFr = langToLang("fr");
 }
 */
 ```
+
+### getLanguageName
+
+```javascript
+import { getLanguageName } from "language-name-to-language-name";
+
+const англійська = getLanguageName('en', 'uk');
+/*
+Returns translated language name (English on ukrainian)
+'Англійська'
+*/
+```
+
+### NEW! getLanguageNameWithCountry
+
+```javascript
+import { getLanguageNameWithCountry } from "language-name-to-language-name";
+
+const fancyEnglishES = getLanguageNameWithCountry('en-GB', 'es');
+
+/*
+Returns translated country name name (England on spanish and native name)
+{ countryName: 'Reino Unido', languageName: 'Inglés', native: 'English' }
+*/
+
+const fancyEnglishESLong = getLanguageNameWithCountry('en-GB', 'es', false);
+
+/*
+Returns translated country name name (England on spanish and native name)
+{ countryName: 'Reino Unido de Gran Bretaña e Irlanda del Norte', languageName: 'Inglés', native: 'English' }
+*/
+
+```
+
 
 ## List of ISO 639-1 codes
 
