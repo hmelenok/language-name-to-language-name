@@ -1,6 +1,7 @@
 # language-name-to-language-name
 
 <span class="badge-npmversion"><a href="https://www.npmjs.com/package/language-name-to-language-name" title="View this project on NPM"><img src="https://img.shields.io/npm/v/language-name-to-language-name.svg" alt="NPM version" /></a></span>
+[![codecov](https://codecov.io/gh/hmelenok/language-name-to-language-name/branch/master/graph/badge.svg?token=4Z3DM8ON4Q)](https://codecov.io/gh/hmelenok/language-name-to-language-name)
 
 Language names on other language names (base list from ISO 639-1)
 
@@ -49,7 +50,7 @@ const mapFr = langToLang("fr");
 ```javascript
 import { getLanguageName } from "language-name-to-language-name";
 
-const англійська = getLanguageName('en', 'uk');
+const англійська = getLanguageName("en", "uk");
 /*
 Returns translated language name (English on ukrainian)
 'Англійська'
@@ -61,22 +62,20 @@ Returns translated language name (English on ukrainian)
 ```javascript
 import { getLanguageNameWithCountry } from "language-name-to-language-name";
 
-const fancyEnglishES = getLanguageNameWithCountry('en-GB', 'es');
+const fancyEnglishES = getLanguageNameWithCountry("en-GB", "es");
 
 /*
 Returns translated country name name (England on spanish and native name)
 { countryName: 'Reino Unido', languageName: 'Inglés', native: 'English' }
 */
 
-const fancyEnglishESLong = getLanguageNameWithCountry('en-GB', 'es', false);
+const fancyEnglishESLong = getLanguageNameWithCountry("en-GB", "es", false);
 
 /*
 Returns translated country name name (England on spanish and native name)
 { countryName: 'Reino Unido de Gran Bretaña e Irlanda del Norte', languageName: 'Inglés', native: 'English' }
 */
-
 ```
-
 
 ## List of ISO 639-1 codes
 
