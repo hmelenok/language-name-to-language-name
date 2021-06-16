@@ -24,7 +24,7 @@
     "extract-country-names": "node ./scripts/extract-country-codes.js",
     "build": "rm -rf lib/ && yarn build:types && babel src --out-dir lib --ignore '**/*.test.ts' --extensions '.ts'",
     "build:types": "tsc -p tsconfig.types.json",
-    "coverage": "jest --coverage",
+    "coverage": "TZ=UTC jest --coverage",
     "prepack": "yarn build",
     "test": "TZ=UTC jest",
     "type-check": "tsc --noEmit",
