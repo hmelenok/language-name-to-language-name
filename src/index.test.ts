@@ -5,6 +5,7 @@ import {
   getLanguageNameWithCountry,
   langToLang,
 } from './index';
+import { LanguageCode } from './types';
 
 const LIST_LENGTH = 190;
 
@@ -65,7 +66,7 @@ describe('getLanguageNameWithCountry', () => {
     const fancierEnglish = getLanguageNameWithCountry('en-GB', undefined, false);
     const англійська = getLanguageNameWithCountry('en', 'uk');
     const nonExistent = getLanguageNameWithCountry('yoiuytrew', 'en');
-    const nonExistentSource = getLanguageNameWithCountry('{}', 'ssadasdaasd');
+    const nonExistentSource = getLanguageNameWithCountry('{}', 'ssadasdaasd' as LanguageCode);
 
     expect(english).toEqual({
       countryName: '',
