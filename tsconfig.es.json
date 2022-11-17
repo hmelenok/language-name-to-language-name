@@ -1,0 +1,13 @@
+{
+  "extends": "./tsconfig",
+  "exclude": ["node_modules", "src/**/*.test.ts"],
+  "include": ["src"],
+  "compilerOptions": {
+    "module": "es6",
+    "declaration": true,
+    "moduleResolution": "node",
+    "esModuleInterop": true,
+    "outDir": "lib/es",
+    "resolveJsonModule": false
+  }
+}

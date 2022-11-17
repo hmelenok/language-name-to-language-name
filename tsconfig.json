@@ -3,11 +3,12 @@
     "outDir": "lib",
     "allowSyntheticDefaultImports": true,
     "module": "commonjs",
-    "target": "esnext",
     "sourceMap": false,
     "isolatedModules": true,
     "esModuleInterop": true,
     "skipLibCheck": true,
-    "typeRoots": ["node_modules/@types", "./types-3rd-party"]
+    "typeRoots": ["node_modules/@types", "./types-3rd-party"],
+    "target": "es6",
+    "declaration": true,
   }
 }

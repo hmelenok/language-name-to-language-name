@@ -3,6 +3,7 @@
   "version": "0.4.2",
   "description": "Language names on other language names (base list from ISO 639-1)",
   "main": "lib/",
+  "module": "lib/es/index.js",
   "files": [
     "lib/"
   ],
@@ -14,6 +15,7 @@
   "author": "Khmel Mykyta <hmelenok@gmail.com>",
   "license": "MIT",
   "private": false,
+  "sideEffects": false,
   "scripts": {
     "lint": "eslint . --cache --fix --ignore-path=.eslintignore",
     "extract-fr": "node ./scripts/extract-french.js",
@@ -22,8 +24,10 @@
     "extract-ru": "node ./scripts/extract-russian-with-german.js",
     "extract-nb": "node ./scripts/extract-norsk-bokmal.js",
     "extract-country-names": "node ./scripts/extract-country-codes.js",
-    "build": "rm -rf lib/ && yarn build:types && babel src --out-dir lib --ignore '**/*.test.ts' --extensions '.ts'",
     "build:types": "tsc -p tsconfig.types.json",
+    "build": "rm -rf lib/ && yarn build:types && yarn build:es && yarn build:commonjs",
+    "build:es": "tsc -p tsconfig.es.json",
+    "build:commonjs": "tsc",
     "coverage": "TZ=UTC jest --coverage",
     "prepack": "yarn build",
     "test": "TZ=UTC jest",
