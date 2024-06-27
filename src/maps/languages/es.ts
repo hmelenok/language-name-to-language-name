@@ -188,6 +188,7 @@ export default {
   /**
    * Extended List
    */
+  'de-AT': 'Alemán (Austria)',
   'en-GB': 'Inglés del Reino Unido',
   'es-MX': 'Español (México)',
   'pt-BR': 'Portugués Brasileño',
