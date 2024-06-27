@@ -4,3 +4,4 @@ node_modules/
 lib/
 .eslintcache
 scripts/*-extracted.json
+coverage/

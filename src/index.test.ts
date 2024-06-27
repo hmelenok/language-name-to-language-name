@@ -7,7 +7,7 @@ import {
 } from './index';
 import { LanguageCode } from './types';
 
-const LIST_LENGTH = 190;
+const LIST_LENGTH = 191;
 
 describe('langToLang', () => {
   it('should have all keys', () => {
